@@ -8,7 +8,6 @@ This project predicts housing prices using machine learning techniques on the Am
 ## 📁 Project Structure
 
 - `Housing_Prices_Optimized_Final.ipynb` — Final cleaned and optimized Jupyter Notebook  
-- `submission.csv` — Predicted prices for test dataset  
 - `README.md` — Project documentation
 
 ---
